@@ -1,2 +1,2 @@
 # MachineLearning
-Ассемиан Брис, МО
+Ассемиан Брис --- NETFLIX
